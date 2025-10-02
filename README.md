@@ -1,8 +1,8 @@
-# Vandelay Smart Contract Templates
+# VIX LABS Smart Contract Templates
 
 A curated collection of Solidity smart contract templates — built without imports, optimized for readability, learning, and customization.  
 
-Created & maintained by **Vandelay Technologies**.
+Created & maintained by **VIX-Labs // (Previously Vandelay Tech)**.
 
 ---
 
@@ -226,4 +226,4 @@ An on-chain identity verification and attestation framework.
 ---
 
 **Dev/Author:**  
-DeFi-Vandelay for Vandelay Technologies
+David Barclay for VIX-Labs
