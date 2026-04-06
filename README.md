@@ -1,6 +1,6 @@
 # VIX LABS Smart Contract Templates
 
-A curated collection of Solidity smart contract templates — built without imports, optimized for readability, learning, and customization.  
+A curated collection of Solidity smart contract templates - built without imports, optimized for readability, learning, and customization.  
 
 Created & maintained by **VIX-Labs // (Previously Vandelay Tech)**.
 
